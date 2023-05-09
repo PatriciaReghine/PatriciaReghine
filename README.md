@@ -10,4 +10,4 @@ Meu nome é Patricia Reghine ❤️
  ### Você pode entrar em contato comigo 📬 :
  Meu linkedin: @Patricia Reghine
  
- ![](https://media.tenor.com/UToftFAfL1kAAAAM/web-development-web.gif)
+ ![](https://myoctocat.com/build-your-octocat/)
