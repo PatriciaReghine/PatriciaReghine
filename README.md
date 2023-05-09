@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, seja bem-vindo ao meu perfil 👋
 
-<!--
-**PatriciaReghine/PatriciaReghine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Patricia Reghine ❤️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na Alura;
+- Estou aprendendo e me desenvolvendo na linguagem de Python;
+- Uso o GitHub para compartilhar meus projetos;
+- Sou estudante do Edutech-Pr, e este é meu terceiro ano participando do programa;
+ 
+ ### Você pode entrar em contato comigo 📬 :
+ Meu linkedin: @Patricia Reghine
+ 
+ ![](https://media.tenor.com/UToftFAfL1kAAAAM/web-development-web.gif)
