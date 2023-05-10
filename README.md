@@ -1,4 +1,7 @@
 ### Olá, seja bem-vindo ao meu perfil 👋
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 Meu nome é Patricia Reghine ❤️
 
@@ -10,4 +13,3 @@ Meu nome é Patricia Reghine ❤️
  ### Você pode entrar em contato comigo 📬 :
  Meu linkedin: @Patricia Reghine
  
- ![](https://myoctocat.com/build-your-octocat/)
