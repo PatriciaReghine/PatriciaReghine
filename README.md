@@ -11,5 +11,6 @@ Meu nome é Patricia Reghine ❤️
 - Sou estudante do Edutech-Pr, e este é meu terceiro ano participando do programa;
  
  ### Você pode entrar em contato comigo 📬 :
- Meu linkedin: @Patricia Reghine
+ [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patricia_reghine/)
+ [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patr%C3%ADcia-reghine-09521224b/)
  
