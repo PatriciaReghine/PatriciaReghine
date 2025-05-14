@@ -5,10 +5,9 @@
 
 Meu nome é Patricia Reghine ❤️
 
-- Estou estudando na Alura;
-- Estou aprendendo e me desenvolvendo na linguagem de Python;
-- Uso o GitHub para compartilhar meus projetos;
-- Sou estudante do Edutech-Pr, e este é meu terceiro ano participando do programa;
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🤝 Embaixadora Conectadas | Medalhista Edutech 2021  
+🌱 Aprendendo JavaScript, Front-end e Lógica de Programação  
  
  ### Você pode entrar em contato comigo 📬 :
  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patricia_reghine/)
